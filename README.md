@@ -39,7 +39,7 @@
 #This code will load and initialize the SDK. You must replace the value in your-app-id with the ID of your own Facebook App. You can find this ID using the App Dashboard https://developers.facebook.com/apps  
 
 
-
+# https://developers.facebook.com/docs/facebook-login/permissions/
 
 <!-- Now goto setting, and add domain -->
 
