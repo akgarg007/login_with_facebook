@@ -1,5 +1,3 @@
-# login_with_facebook
-
 
 <!-- Login with facebook script -->
 <!-- https://drive.google.com/file/d/14K15TUymA2gQl1zXcZgnkfnmyizCpGUI/view -->
@@ -38,10 +36,10 @@ The following snippet of code will give the basic version of the SDK where the o
 <!-- This code will load and initialize the SDK. You must replace the value in your-app-id with the ID of your own Facebook App. You can find this ID using the App Dashboard https://developers.facebook.com/apps   -->
 
 
-
+<!-- https://developers.facebook.com/apps/341229266608967/scenarios/ -->
 
 <!-- Now goto setting, and add domain -->
-
+<!-- https://developers.facebook.com/apps/341229266608967/settings/basic/ -->
 
 <!-- then add platform, as website -->
 
