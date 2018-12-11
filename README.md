@@ -16,6 +16,7 @@ The Facebook SDK for JavaScript doesn't have any standalone files that need to b
 
 The following snippet of code will give the basic version of the SDK where the options are set to their most common defaults. You should insert it directly after the opening <body> tag on each page you want to load it: -->
 
+<br/><br/>
 <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -34,7 +35,7 @@ The following snippet of code will give the basic version of the SDK where the o
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
-
+<br/><br/><br/><br/>
 <!-- This code will load and initialize the SDK. You must replace the value in your-app-id with the ID of your own Facebook App. You can find this ID using the App Dashboard https://developers.facebook.com/apps   -->
 
 
